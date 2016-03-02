@@ -8,3 +8,4 @@ A starter pack with included Integrations with multiple APIs
 
 Better take this for a spin.
 [https://github.com/unicodeveloper/laravel-hackathon-starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
+[Starter Pack]({% https://github.com/unicodeveloper/laravel-hackathon-starter %})
