@@ -5,14 +5,19 @@ permalink: /about/
 ---
 
 Web developer practicing some front end stuff
+
 PHP Developer Symfony
+
 Loving tasks runners and always trying new front end stuff.
 
 
 ### More Information
 
-Prett non chalant person
+Pretty non-chalant person
+
 Which likes potatoes....
+
+
 
 ### Contact me
 
