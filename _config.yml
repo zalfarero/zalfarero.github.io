@@ -6,7 +6,7 @@
 name: Zenaido Alfarero
 
 # Short bio or description (displayed in the header)
-description: TIL page of a Web Developer
+description: Page where I 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/4927500?v=3&u=1625323ce8898c1c89fd68856985fb93a984a01f&s=140
@@ -54,7 +54,7 @@ baseurl: "http://zalfarero.github.io"
 #
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
