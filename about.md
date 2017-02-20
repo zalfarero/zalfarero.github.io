@@ -15,7 +15,7 @@ Also loving AngularJS and trying to learn AngularJS 2
 
 ### More Information
 
-Pretty non-chalant person
+Pretty nonchalant person
 
 Which likes potatoes....
 
