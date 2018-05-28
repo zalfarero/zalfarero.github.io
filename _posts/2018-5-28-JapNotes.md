@@ -3,6 +3,7 @@ layout: post
 title: May 28 Notes
 ---
 
+Just taking notes, will be compiling and making them into something visual for me to digest more easily
 
 Kashimasu-lend
 
@@ -40,4 +41,4 @@ korekara mira-san no kaisha ni denwa wo kakemasu
 
 ni+aimasu
 
-Just taking notes, will be compiling and making them into something visual for me to digest more easily
+
