@@ -1,3 +1,9 @@
+---
+layout: post
+title: May 28 Notes
+---
+
+
 Kashimasu-lend
 
 yumei - famous
