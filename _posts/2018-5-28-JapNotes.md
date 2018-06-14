@@ -1,6 +1,7 @@
 ---
 layout: post
 title: May 28 Notes
+comments: true
 ---
 
 Just taking notes, will be compiling and making them into something visual for me to digest more easily
