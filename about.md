@@ -4,22 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Web developer practicing some front end stuff
+Web developer studying frontend and all of the other toppings included with it
 
-PHP Developer Symfony
-
-Loving tasks runners and always trying new front end stuff.
-
-Also loving AngularJS and trying to learn AngularJS 2
+Studying current version of angular.
+Having fun with wallabyjs
+Aiming to holistically learn most of frontend side of web development
 
 
 ### More Information
 
-Pretty nonchalant person
+Someone who watches too much youtube
 
-Which likes potatoes....
+Trying to practice photography more 
 
-Reads too much Manga and browses too much reddit and watches too much youtube.
+Reads too much Manga and browses too much reddit.
 
 ### Contact me
 
