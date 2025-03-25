@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Web developer studying frontend and all of the other toppings included with it
+Web developer that loves frontend and all of the other toppings included with it.
 
 Studying current version of angular.
 Having fun with wallabyjs
