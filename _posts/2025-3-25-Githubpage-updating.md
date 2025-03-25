@@ -8,4 +8,4 @@ Long time since adding an update for my github pages, will try to do it more oft
 
 Am in the process of updating my github pages. Thinking of what technology to use or continue with Jekyll. Time for a lot of hello worlds on the current front end technologies.
 
-
+Added remote repo setup with vscode, it works pretty seamlessly. Maybe even makes adding posts to this page more often.
